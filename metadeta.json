@@ -5,6 +5,7 @@
   "author" : ["JohnAceFifty","Lias"]
   "description" : "jake, i thought id let you know. last night i dreamt of balatro but it was different. firstly whenever you play anything like a four of a kind, you'd get scored for four of a kind, then three of a kind, then two of a kind, then high card, so if you have multiple hands in one hand you get scored for all of them. but it was also crazier cause all of the cards had a new prefix for an adjective so one of my cards was a mad 5 of spades. but it was funnier cause they also have a suffix for a proffession. it was funny cause i played four professions of a kind with a mad 5 spade firefiter misspelled.",
   "prefix" : "bal2",
-  "main_file": "main.lua"
+  "main_file": "main.lua",
+  "version":"2"
 
 }
